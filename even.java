@@ -11,8 +11,9 @@ class Ideone
 		int n=sc.nextInt();
 		int q=sc.nextInt();
 		for( int i=1;i<=q;i++)
+		{
 		if(i%2==0)
-		{ 
+		
 			System.out.println(i+"");
 		}
 		
